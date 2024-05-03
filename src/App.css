@@ -1,0 +1,16 @@
+.App {
+  padding-top: 20px;
+}
+
+table,
+th,
+td{
+  border:px solod black;
+  border-collapse:collapse;
+  padding:0.2em;
+  font-size:20px;
+}
+
+.grd {
+  background-color: white;
+}
